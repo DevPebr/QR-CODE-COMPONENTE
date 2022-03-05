@@ -1,0 +1,2 @@
+# QR-CODE-COMPONENTE
+Uma Imagem de QR-CODE
